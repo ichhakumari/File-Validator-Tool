@@ -1,6 +1,7 @@
 <h1>File Validator Tool</h1>
 
 <h3>🚀 A robust file validation tool for bioinformatics and scientific datasets</h3>
+<h4> live here</h4>https://filecheckertool.netlify.app/
 <h3>📌 Overview </h3>
 
 The File Validator Tool is designed to validate CSV, PDB, and TXT files, ensuring data consistency, correctness, and format adherence. It automates the process of checking file structures, data types, and missing values, making it ideal for scientists, researchers, and bioinformatics professionals working with protein-ligand interactions, docking simulations, and molecular datasets.
@@ -159,6 +160,6 @@ This project is licensed under the MIT License.
 
 💡 If you're looking for a developer who can build intelligent tools, solve complex data challenges, and improve user experience, let’s connect! 😊🚀
 
-<h2> Due to company integrity, I haven't uploaded the code or project link. However, feel free to reach out if you'd like to know more about this tool.
+<h2> Due to company integrity, I haven't uploaded the code. However, feel free to reach out if you'd like to know more about this tool.
 
 <br>You can contact me on LinkedIn(https://www.linkedin.com/in/ichha-kumari) or via email (ichha2111@gmail.com).</h2>
