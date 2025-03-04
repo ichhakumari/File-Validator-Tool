@@ -1,18 +1,18 @@
-File Validator Tool
+<h1>File Validator Tool</h1>
 
-🚀 A robust file validation tool for bioinformatics and scientific datasets
-📌 Overview
+<h3>🚀 A robust file validation tool for bioinformatics and scientific datasets</h3>
+<h3>📌 Overview </h3>
 
 The File Validator Tool is designed to validate CSV, PDB, and TXT files, ensuring data consistency, correctness, and format adherence. It automates the process of checking file structures, data types, and missing values, making it ideal for scientists, researchers, and bioinformatics professionals working with protein-ligand interactions, docking simulations, and molecular datasets.
-✨ Features
-📂 File Upload & Display
+<h3>✨ Features</h3>
+<h3>📂 File Upload & Display</h3>
 
     ✅ Supports CSV, PDB, and TXT file uploads
     ✅ Displays uploaded files on the right panel
     ✅ Uses radio buttons to toggle between multiple files
     ✅ Accepts only valid file types (e.g., CSV for tabular data, PDB for protein structures)
 
-🔍 CSV File Validation
+<h3>🔍 CSV File Validation </h3>
 
     📌 Ensures the uploaded CSV file contains required columns as per user input
     📌 Supports more than 3 columns, but required ones must exist
@@ -25,7 +25,7 @@ The File Validator Tool is designed to validate CSV, PDB, and TXT files, ensurin
         "Invalid data type in Protein column - Rows: 3, 5, 7"
         "Null values found in SMILES column - Rows: 4, 6, 10"
 
-🔬 PDB File Validation (Protein & Ligand)
+<h3>🔬 PDB File Validation (Protein & Ligand)</h3>
 
     📌 Accepts only .pdb files for protein and ligand validation
     📌 Ensures structure correctness
@@ -34,14 +34,14 @@ The File Validator Tool is designed to validate CSV, PDB, and TXT files, ensurin
         Ligand files must have at least one column with "LIG"
     📌 Users can switch between uploaded files with radio buttons for easy viewing
 
-📜 TXT File Validation
+<h3>📜 TXT File Validation</h3>
 
     📌 Ensures TXT files have exactly 3 columns
         2 String Columns (alphanumeric names, molecule names, etc.)
         1 Integer/Boolean Column (true/false, 1/0)
     📌 Provides real-time validation with instant feedback
 
-🎨 UI/UX Enhancements
+<h3>🎨 UI/UX Enhancements</h3>
 
     ✅ Modern & Responsive Design for desktop & mobile
     ✅ Card-based layout with clear navigation
@@ -49,12 +49,12 @@ The File Validator Tool is designed to validate CSV, PDB, and TXT files, ensurin
     ✅ Styled error messages for better readability
     ✅ Interactive buttons & hover effects for an engaging experience
 
-⚡ Validation Button Fixes
+<h3>⚡ Validation Button Fixes</h3>
 
     ✅ Fixed issues where validation wasn’t triggering correctly
     ✅ Applied all validation conditions across different button methods
 
-🛠 Project Evolution
+<h3>🛠 Project Evolution</h3>
 
 The File Validator Tool has undergone multiple iterations, continuously improving accuracy, performance, and user experience.
 💡 Challenges Solved
@@ -87,7 +87,7 @@ Now:
     Card-based layout ensures aesthetic appeal & ease of use
     Radio buttons to switch between files for better usability
 
-📌 Final Functionalities
+<h3>📌 Final Functionalities</h3>
 
 ✅ Complete File Validation Workflow
 ✅ CSV File Validation (SMILES, Protein, Activity Columns)
@@ -96,27 +96,27 @@ Now:
 ✅ UI Enhancements (Cards, Alignment, Hover Effects, Links, Responsiveness)
 ✅ Error Handling (Missing Columns, Datatype Errors, Null Values)
 ✅ Toggle View (Radio buttons for different file views)
-💡 Future Improvements
+<h3>💡 Future Improvements</h3>
 
 🔹 Drag & Drop File Uploads for easier interaction
 🔹 Downloadable Error Reports for external validation
 🔹 Support for Additional File Types (JSON, SDF, MOL2, etc.)
 🔹 Progress Indicators & File Previews
-🌟 Why This Project Stands Out
+<h4>🌟 Why This Project Stands Out</h4>
 
 ✅ Solves a real-world problem for bioinformatics & data validation
 ✅ Multiple validation mechanisms make it robust & reliable
 ✅ Scalable for larger datasets & complex file structures
 ✅ Clean UI/UX ensures easy usability for researchers
 ✅ Extensive error handling ensures data integrity
-👨‍💻 Tech Stack
+<h4>👨‍💻 Tech Stack</h4>
 
     Frontend: HTML, CSS, JavaScript
     Backend: Django (for future scalability)
     Validation: JavaScript for client-side file validation
     UI Frameworks: Bootstrap (for styling & responsiveness)
 
-🚀 Getting Started
+<h3>🚀 Getting Started</h3>
 🔹 Clone the Repository
 
 git clone https://github.com/your-username/file-validator-tool.git
@@ -152,9 +152,9 @@ git commit -m "Added new validation logic"
 
 git push origin feature-new-validation
 
-📜 License
+<h3>📜 License</h3>
 
 This project is licensed under the MIT License.
-📢 Connect with Me
+<h3>📢 Connect with Me</h3>
 
 💡 If you're looking for a developer who can build intelligent tools, solve complex data challenges, and improve user experience, let’s connect! 😊🚀
