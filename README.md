@@ -117,41 +117,6 @@ Now:
     Validation: JavaScript for client-side file validation
     UI Frameworks: Bootstrap (for styling & responsiveness)
 
-<h3>🚀 Getting Started</h3>
-🔹 Clone the Repository
-
-git clone https://github.com/your-username/file-validator-tool.git
-cd file-validator-tool
-
-🔹 Run the Web App
-
-    Install Dependencies
-
-pip install -r requirements.txt
-
-    Run Django Server
-
-python manage.py runserver
-
-    Open in Browser
-    Navigate to http://127.0.0.1:8000/
-
-<h3>📝 Contribution Guidelines</h3>
-
-Feel free to contribute!
-
-    Fork the Repository
-    Create a Feature Branch
-
-git checkout -b feature-new-validation
-
-    Commit Changes
-
-git commit -m "Added new validation logic"
-
-    Push to GitHub & Open a PR
-
-git push origin feature-new-validation
 
 <h3>📜 License</h3>
 
