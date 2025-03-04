@@ -57,7 +57,7 @@ The File Validator Tool is designed to validate CSV, PDB, and TXT files, ensurin
 <h3>🛠 Project Evolution</h3>
 
 The File Validator Tool has undergone multiple iterations, continuously improving accuracy, performance, and user experience.
-💡 Challenges Solved
+<h4>💡 Challenges Solved</h4>
 🔹 CSV Validation Improvements
 
     Early Issues: Data type checks were inconsistent for small datasets (<5 errors)
