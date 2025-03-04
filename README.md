@@ -135,7 +135,7 @@ python manage.py runserver
     Open in Browser
     Navigate to http://127.0.0.1:8000/
 
-📝 Contribution Guidelines
+<h3>📝 Contribution Guidelines</h3>
 
 Feel free to contribute!
 
