@@ -89,25 +89,25 @@ Now:
 
 <h3>📌 Final Functionalities</h3>
 
-✅ Complete File Validation Workflow
-✅ CSV File Validation (SMILES, Protein, Activity Columns)
-✅ PDB File Validation (Protein: ATOM only, Ligand: ATOM/HETATM & LIG presence)
-✅ TXT File Validation (2 String + 1 Boolean Column)
-✅ UI Enhancements (Cards, Alignment, Hover Effects, Links, Responsiveness)
-✅ Error Handling (Missing Columns, Datatype Errors, Null Values)
-✅ Toggle View (Radio buttons for different file views)
+✅ Complete File Validation Workflow<br>
+✅ CSV File Validation (SMILES, Protein, Activity Columns)<br>
+✅ PDB File Validation (Protein: ATOM only, Ligand: ATOM/HETATM & LIG presence)<br>
+✅ TXT File Validation (2 String + 1 Boolean Column)<br>
+✅ UI Enhancements (Cards, Alignment, Hover Effects, Links, Responsiveness)<br>
+✅ Error Handling (Missing Columns, Datatype Errors, Null Values)<br>
+✅ Toggle View (Radio buttons for different file views)<br>
 <h3>💡 Future Improvements</h3>
 
-🔹 Drag & Drop File Uploads for easier interaction
-🔹 Downloadable Error Reports for external validation
-🔹 Support for Additional File Types (JSON, SDF, MOL2, etc.)
+🔹 Drag & Drop File Uploads for easier interaction<br>
+🔹 Downloadable Error Reports for external validation<br>
+🔹 Support for Additional File Types (JSON, SDF, MOL2, etc.)<br>
 🔹 Progress Indicators & File Previews
 <h4>🌟 Why This Project Stands Out</h4>
 
-✅ Solves a real-world problem for bioinformatics & data validation
-✅ Multiple validation mechanisms make it robust & reliable
-✅ Scalable for larger datasets & complex file structures
-✅ Clean UI/UX ensures easy usability for researchers
+✅ Solves a real-world problem for bioinformatics & data validation<br>
+✅ Multiple validation mechanisms make it robust & reliable<br>
+✅ Scalable for larger datasets & complex file structures<br>
+✅ Clean UI/UX ensures easy usability for researchers<br>
 ✅ Extensive error handling ensures data integrity
 <h4>👨‍💻 Tech Stack</h4>
 
