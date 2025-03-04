@@ -161,4 +161,4 @@ This project is licensed under the MIT License.
 
 <h2> Due to company integrity, I haven't uploaded the code or project link. However, feel free to reach out if you'd like to know more about this tool.
 
-<br>You can contact me on LinkedIn or via email (ichha2111@gmail.com).</h2>
+<br>You can contact me on LinkedIn(https://www.linkedin.com/in/ichha-kumari) or via email (ichha2111@gmail.com).</h2>
