@@ -2,6 +2,7 @@
 
 <h3>🚀 A robust file validation tool for bioinformatics and scientific datasets</h3>
 <h2> live here  https://filecheckertool.netlify.app/</h2>
+<h2> Updated version with Smile Validation Tool  https://analougefilevalidator-production.up.railway.app/</h2>
 <h3>📌 Overview </h3>
 
 The File Validator Tool is designed to validate CSV, PDB, and TXT files, ensuring data consistency, correctness, and format adherence. It automates the process of checking file structures, data types, and missing values, making it ideal for scientists, researchers, and bioinformatics professionals working with protein-ligand interactions, docking simulations, and molecular datasets.
